@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "menuMaker", "menuMaker\menuMaker.pyproj", "{6F2A0768-6E94-4913-A6F7-E11819285D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F2A0768-6E94-4913-A6F7-E11819285D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2A0768-6E94-4913-A6F7-E11819285D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E562A1A4-E923-4ED3-923D-D2D364682A7D}
+	EndGlobalSection
+EndGlobal
